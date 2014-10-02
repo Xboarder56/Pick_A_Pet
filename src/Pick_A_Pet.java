@@ -1,7 +1,7 @@
 /**
- * Screensaver.java
+ * Pick_A_Pet.java
  * @author Garrett J. Beasley
- * 09/29/2014
+ * 10/01/2014
  * Draws a House Picture
  */
 
